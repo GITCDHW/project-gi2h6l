@@ -197,7 +197,7 @@ export default function MedicalCenterPage() {
             {/* Google Maps Iframe Placeholder */}
             <div className="text-center p-8">
               <p className="font-medium text-slate-600 mb-2 italic">Google Maps Iframe Placeholder</p>
-              <p className="text-xs max-w-xs mx-auto">In production, insert your Google Maps iframe code here to display the interactive map.</p>
+              <p className="text-xs max-w-xs mx-auto">In production,I would insert your actual location</p>
             </div>
           </div>
         </div>

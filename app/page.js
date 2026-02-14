@@ -8,11 +8,8 @@ export default function Home() {
     <main className="min-h-screen bg-white text-slate-900 font-sans">
       <Hero />
       <Services />
-      <Portfolio />
       <Process />
-      <Testimonials />
       <Contact />
-      <Footer />
     </main>
   );
 }

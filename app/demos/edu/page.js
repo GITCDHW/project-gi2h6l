@@ -43,8 +43,8 @@ export default function EducationLandingPage() {
             </div>
             <div className="flex-1 w-full">
               <img 
-                src="https://images.unsplash.com/photo-1523050853063-913ec986e9f2?auto=format&fit=crop&q=80&w=800" 
-                alt="Modern University Campus" 
+                src="https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000" 
+                alt="Main university building with modern architecture" 
                 className="rounded-3xl shadow-2xl w-full object-cover aspect-[4/3]"
               />
             </div>
@@ -132,14 +132,14 @@ export default function EducationLandingPage() {
           <h2 className="text-3xl font-bold mb-10 text-center">Life at Horizon</h2>
           <div className="grid md:grid-cols-2 gap-6">
             <img 
-              src="https://images.unsplash.com/photo-1541339907198-e08756defe93?auto=format&fit=crop&q=80&w=800" 
+              src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&q=80&w=1000" 
               className="rounded-3xl w-full h-80 object-cover" 
-              alt="Students on campus" 
+              alt="Group of diverse students collaborating on a project" 
             />
             <img 
-              src="https://images.unsplash.com/photo-1498243639159-0043ab24075b?auto=format&fit=crop&q=80&w=800" 
+              src="https://images.unsplash.com/photo-1507738919721-757729ea8975?auto=format&fit=crop&q=80&w=1000" 
               className="rounded-3xl w-full h-80 object-cover" 
-              alt="Modern library interior" 
+              alt="Students studying in a modern, bright library environment" 
             />
           </div>
         </section>

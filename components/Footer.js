@@ -6,13 +6,13 @@ export default function Footer() {
 
         <div className="flex gap-6">
           <a
-            href="https://wa.me/yournumber"
+            href="https://wa.me/9748725259"
             className="hover:text-slate-900 transition"
           >
             WhatsApp
           </a>
           <a
-            href="mailto:youremail@example.com"
+            href="mailto: pank36720@gmail.com"
             className="hover:text-slate-900 transition"
           >
             Email

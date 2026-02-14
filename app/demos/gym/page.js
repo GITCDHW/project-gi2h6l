@@ -108,11 +108,11 @@ export default function GymLandingPage() {
         <div className="grid grid-cols-2 md:grid-cols-3 gap-2">
           {[
             "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600&auto=format&fit=crop",
-            "https://images.unsplash.com/photo-1583454110551-21f2fa2adfcd?w=600&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1605296867304-46d5465a13f1?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "https://images.unsplash.com/photo-1594882645126-14020914d58d?w=600&auto=format&fit=crop",
             "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?w=600&auto=format&fit=crop",
             "https://images.unsplash.com/photo-1518310383802-640c2de311b2?w=600&auto=format&fit=crop",
-            "https://unsplash.com/photos/topless-man-in-black-shorts-carrying-black-dumbbell-7kEpUPB8vNk&auto=format&fit=crop"
+            "https://images.unsplash.com/photo-1605296867304-46d5465a13f1?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           ].map((url, i) => (
             <div key={i} className="aspect-square bg-gray-100 overflow-hidden">
               <img src={url} alt={`Transformation ${i+1}`} className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-500" />
@@ -128,7 +128,7 @@ export default function GymLandingPage() {
           <div className="grid md:grid-cols-2 gap-16">
             <div className="text-center group">
               <div className="w-56 h-72 mx-auto mb-6 overflow-hidden">
-                <img src="https://unsplash.com/photos/topless-man-in-black-shorts-carrying-black-dumbbell-7kEpUPB8vNk&auto=format&fit=crop" className="w-full h-full object-cover" alt="Coach Alex" />
+                <img src="https://images.unsplash.com/photo-1605296867304-46d5465a13f1?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" className="w-full h-full object-cover" alt="Coach Alex" />
               </div>
               <h4 className="text-2xl font-black uppercase">Coach Alex Reed</h4>
               <p className="text-[#dc2626] font-bold uppercase text-sm mb-2 italic">Lead Strength Coach</p>

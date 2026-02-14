@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import FeatureCard from '../../../components/FeatureCard';
+import FeatureCard from '../../components/FeatureCard';
 
 export default function LandingPage() {
   return (

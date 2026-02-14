@@ -112,7 +112,7 @@ export default function GymLandingPage() {
             "https://images.unsplash.com/photo-1594882645126-14020914d58d?w=600&auto=format&fit=crop",
             "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?w=600&auto=format&fit=crop",
             "https://images.unsplash.com/photo-1518310383802-640c2de311b2?w=600&auto=format&fit=crop",
-            "https://images.unsplash.com/photo-1574673402453-ec789acbc94a?w=600&auto=format&fit=crop"
+            "https://unsplash.com/photos/topless-man-in-black-shorts-carrying-black-dumbbell-7kEpUPB8vNk&auto=format&fit=crop"
           ].map((url, i) => (
             <div key={i} className="aspect-square bg-gray-100 overflow-hidden">
               <img src={url} alt={`Transformation ${i+1}`} className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-500" />
@@ -128,7 +128,7 @@ export default function GymLandingPage() {
           <div className="grid md:grid-cols-2 gap-16">
             <div className="text-center group">
               <div className="w-56 h-72 mx-auto mb-6 overflow-hidden">
-                <img src="https://images.unsplash.com/photo-1567013127542-490d757e51fe?w=600&auto=format&fit=crop" className="w-full h-full object-cover" alt="Coach Alex" />
+                <img src="https://unsplash.com/photos/topless-man-in-black-shorts-carrying-black-dumbbell-7kEpUPB8vNk&auto=format&fit=crop" className="w-full h-full object-cover" alt="Coach Alex" />
               </div>
               <h4 className="text-2xl font-black uppercase">Coach Alex Reed</h4>
               <p className="text-[#dc2626] font-bold uppercase text-sm mb-2 italic">Lead Strength Coach</p>
